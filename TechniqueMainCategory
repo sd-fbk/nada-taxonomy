@@ -1,0 +1,7 @@
+ADD synthesis: placing of a substance on a substrate. Comment: This might be individual atoms or the forming of a layer of a substance 
+ADD integration:  process by which two materials adhere to each other ensuring a mechanically stable interconnection; connecting different components; packaging could be a subcategory
+REMOVE etching:A process used in micro- and nanofabrication to chemically or mechanically remove layers from the surface of a item undergoing fabrication (wafer, but not only) during fabrication/ manufacturing. Comment: Etching is a critically important process module in nanofabrication, and every wafer undergoes many etching steps before it is complete
+TRANSFORM lithography/pattern transfer
+TRANSORM doping: adding elements to the materials under fabrication in order to modify electrical properties like conductivity. Comment: main doping are by ion implantation, diffusion from solid or liquid sources, gas injection
+TRANSFORM thermal processing: the use of heating associated or not to gas or vapours mixtures, to modify the item (wafer, piece of wafer). Semiconductor thermal processes can reach 1400 oC. They are performed in tools called furnaces, or tubes. Main gas or vapours are: oxygen, hydrogen, nitrogen, argon, vaporized water, chlorine acid 
+TRANSORM dicing: method to cut a wafer or any other sample to individual dies by mechanical sawing or laser cutting
