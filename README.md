@@ -1,5 +1,9 @@
 This repository introduce NaDa, a novel taxonomy to manage nanofabrication data. It is proposed as an open and in progress project.
 Besides a first introduction (below), structured information are provided on the main categories of fabrication techniques and on some instrument, equipment typically associated to each technique.
+NB: this repository focuses on fabrication techniques. An already well developed project, CHADA, is available for characterization taxonomy. Here two useful references:
+CEN worskhop agreement 2021 https://www.cencenelec.eu/media/CEN-CENELEC/CWAs/ICT/cwa17815.pdf
+CEN workshop agreement 2025 https://www.cencenelec.eu/media/CEN-CENELEC/CWAs/RI/2025/cwa17815_2025.pdf
+
 
 Introduction to NaDa
 Nanotechnologies are greatly interested in FAIR data management and dedicated ontologies, since developing materials and devices, understanding new materials and supporting applications in health,
