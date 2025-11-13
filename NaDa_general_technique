@@ -1,3 +1,5 @@
+general_technique: class including families of technologies, each one including one or more techniques
+
 ADD synthesis: placing of a substance on a substrate. Comment: This might be individual atoms or the forming of a layer of a substance 
 ADD integration:  process by which two materials adhere to each other ensuring a mechanically stable interconnection; connecting different components; packaging could be a subcategory
 REMOVE etching:A process used in micro- and nanofabrication to chemically or mechanically remove layers from the surface of a item undergoing fabrication (wafer, but not only) during fabrication/ manufacturing. Comment: Etching is a critically important process module in nanofabrication, and every wafer undergoes many etching steps before it is complete
